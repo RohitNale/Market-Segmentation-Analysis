@@ -1,0 +1,11 @@
+ipython==8.4.0
+matplotlib==3.5.2
+numpy==1.15.1
+pandas==1.4.2
+pca==1.8.2
+plotly==5.8.2
+scikit_learn==1.1.1
+scipy==1.8.1
+seaborn==0.11.2
+statsmodels==0.13.2
+yellowbrick==1.4
