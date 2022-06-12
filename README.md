@@ -50,7 +50,7 @@ It contains a larger set of consumer characteristics, such as a number of benefi
 with a feasible strategy to enter the market, targeting the segments most likely to use their
 product in terms of Geographic, Demographic, Psychographic, Behavioral.
 
-**Techniques and Algorithms:** Machine learning using python with pandas, scikit-learn and k means clustering.
+**Techniques and Algorithms:** Pandas, Scikit-learn, and K means clustering.
 
 In this project we are using [Census 2011](https://censusindia.gov.in/census.website/data/census-tables) data for the analysis. The Census 2011 is the 15th National census survey conducted by the Census Organisation of India. Mr. C. Chandramouli is the Commissioner & Registrar General of the Indian 2011 Census. 
 We are using the K-means clustering algorithm to find groups which have not been explicitly labeled in the data. This is used to confirm assumptions about what types of groups exist or to identify unknown groups in our data sets.
@@ -60,7 +60,7 @@ We conduct surveys on various government policies and budgets concerning healthc
 
 ## Market Segmentation in Tourism Industry
 
-**Techniques and Algorithms:** Machine learning using python with pandas, scikit-learn and k means clustering.
+**Techniques and Algorithms:** Pandas, Scikit-learn, and K means clustering.
 
 In this project, we are using [Google Travel Review Ratings Data Set](https://archive.ics.uci.edu/ml/datasets/Tarvel+Review+Ratings). This data set is populated by capturing user ratings from Google reviews. Reviews on attractions from 24 categories are considered. User rating ranges from 1 to 5 and average user rating per category is calculated. We perform segmentation analysis in which we target the segments most likely to use our product in terms of Geographic, Demographic, Psychographic, Behavioral.
 We perform the EDA to get some initial investigations on the dataset to discover the structure and the content of the dataset. The distribution of ratings in each attraction category differs. Some have a wide range of distribution, while others are concentrated in low-rated areas. 
