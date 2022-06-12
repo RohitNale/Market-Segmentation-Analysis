@@ -5,9 +5,9 @@ This project explains the step by step implementation of Market Segmentation
 
 ## Table of contents
 
-- [Market Segmentation Analysis]()
-- [Market Segmentation in Medical Market]()
-- [Market Segmentation in Tourism Industry]()
+- [Market Segmentation Analysis](#market-segmentation-analysis-1)
+- [Market Segmentation in Medical Market](#market-segmentation-in-medical-market)
+- [Market Segmentation in Tourism Industry](#market-segmentation-in-tourism-industry)
 
 ## Requirements
 
