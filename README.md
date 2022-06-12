@@ -3,12 +3,12 @@
 
 This project explains the step by step implementation of Market Segmentation
 
-
 ## Table of contents
 
-- Market Segmentation Analysis
-- Market Segmentation in Medical Market
-- Market Segmentation in Tourism Industry
+- [Market Segmentation Analysis]()
+- [Market Segmentation in Medical Market]()
+- [Market Segmentation in Tourism Industry]()
+
 ## Requirements
 
 Python 3.6 or later with the following `pip3 install -r requirements.txt` packages:
